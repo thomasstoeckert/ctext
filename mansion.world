@@ -1,0 +1,112 @@
+You awake in a fog-filled haze, not remembering a single event that brought you to this place. In front of you stands a grand mansion, though run-down with age. The garden which you're standing in is far overgrown with bushes and shrubbery, though you feel there is much more to look at if you could just get inside...
+0 1 2 Rusty home key
+It's a rusty key. What it was doing in the garden, nobody knows.
+0 0 1 You shove the key into the door's lock, swinging the door open and breaking the lock forever. Oops.
+1 1 -1 Key Handle
+It's half of a rusty key. Looks like it's easy to combine with a missing piece.
+2 1 -1 Key Prongs
+It's the bottom half of a rusty key. It seems like it'd be easy to combine it with a top half of a key.
+3 0 1 Suit of Armor
+It's a standard medieval suit of armor. What it's doing here in a marble mansion, who knows.
+4 As you finger glances the surface of the metal, it falls to the ground to a clatter. oops.
+4 0 1 Pile of armor scraps
+You just had to touch it, didn't you.
+3 You hastily try and re-assemble the scraps of the armor into its original position.
+5 1 -1 Inactive Golden Chalice
+It's a golden chalice, rumored to give rejuvinated life. The issue is, it seems to be totally non-rejuvinating right now.
+6 1 -1 Activated Golden Chalice
+Now flowing with energy, the golden chalice feels like it's only missing something to drink...
+7 1 3 Filled Activated Golden Chalice
+Now bearing a fluid that glistense magically, it seems to you that each time you look at it your sorrows drift away. You have an urge to consume its contents.
+As you drink from the chalice, you feel life returning to your body... shortly followed by a burning in your stoumach. As you burn from the inside out, you feel like there was something you missed inside the mansion...
+8 1 -1 Piece of Gold
+A single gold coin, imbued with a magical essence which flows into the air surrounding it.
+9 1 2 An Axe
+Its an axe used for chopping through heavy brush
+0 1 2 You cut through the branches to open up the path for regular use
+10 0 -1 Wooden Chest
+A bare wooden chest, it's fused shut. However, it looks like it could be wedged open with a short blade...
+11 1 -1 Short Dagger
+It's a short blade, perfect for wedging open small boxes
+12 1 -1 Crumpled Note
+The crumpled note reads "There's a curse that follows that goblet anywhere. Those who consume it for themselves are consumed by the goblet's firey soul - but those who use it on others selflessly can be granted everlasting peace."
+13 1 -1 Stained Note
+The note reads "I cannot let my master fall ail to the goblet's curse. I've condemmed the core of the goblet to a small box in the wine cellar. Hopefully all servants who follow my footsteps shall find my notes and leave the core alone."
+14 0 -1 Leaky Cask of Wine
+It's a cask of wine which holds barely any fluid inside. It could probably fill up a small cup, however
+15 0 0 Open Chest
+It's an open chest, with its lock broken open forcefully by someone who clearly didn't care about the elaborate woodworking nor antique history
+8 1 You pick up the golden piece from the chest
+16 0 -1 Empty Cask of Wine
+A cask which still reeks of grape juice gone alcholic, but also just gone in general
+17 0 -1 Dead Corpse
+It's a dead corpse. Despite it being in the master's quarters, it appears to be wearing the simple fabrics of a servant
+18 0 3 Angel
+It's an angel. You feel you should use it.
+The angel greets you with open arms and a warm smile. As you approach, you are filled with all the pleasant feelings and memories of youth. You are content.
+19 1 -1 Grassy Note
+The note reads "Dear traveller - the mansion which stands before you has stood before many a lost soul like yourself. But beware, there's naught but pain and suffering for those who succumb to the promises inside. Keep your wits about you, and take a closer look at all you can see. This mansion may be cursed, but the items inside may prove interesting."
+-1
+0 2 The Old Garden
+It's a fancy garden, but ruined with age. Crumbling marble pillars, overgrown vines, the whole lot.
+-1 Enter through the mansion's front doors
+-1 A thickened path of woods, leading towards an unknown and darkened portion of property.
+1 3 The Mansion Lobby
+It's the lobby of the property's mansion. Marble columns, a two-story spiral staircase, the whole lot. There's even a chandelier. It's clear it hasn't been cleaned in a long time, but also hasn't been used in longer.
+0 Go back outside
+4 Enter the biggest door of the lobby
+5 Go up the stairs to the Master's quarters
+2 1 The Treasure Garden
+It's a trove full of oppulence, crowned with a golden chalice at the center
+0 Return to the garden in front of the mansion
+3 2 The Armory
+It's a large and well-equipped armory, full of sharp tools and equipment
+4 Go to the grand hall
+6 Enter through a small door to the servants quarters
+4 3 Grand Hall
+It's a massive ballroom, gleaming from floor to ceiling with gold trim and beautiful engravings
+1 Exit through the large door to the lobby
+3 Walk down a smaller door to the armory
+7 Enter another big door to the dining hall
+5 2 The Master Bedroom
+It's the room of the master of the house. It's truly remarkable, with flowing cloths. Unfortunately, it's covered in dust.
+6 Go through the passage to the servant's quarters
+1 Go back down the stairs to the lobby
+6 4 Servant's quarters
+A measly establishment, with basic, unpainted walls and a cot for a bed. It's truly an interesting sight when compared with the oppulence of the rest of the house.
+5 Go to the Master's quarters through the servant's passage
+3 Go to the Armory through the servant's passage
+7 Go to the Dining hall through the servant's passage
+8 Go down to the wine cellar
+7 1 The Dining Hall
+A room with a long table and elaborate decor. Again, covered in inches of dust
+4 Enter the grand hall
+8 1 Wine Cellar
+It's a musty old wine cellar, full of casks with varying volumes.
+6 Return to the servant's quarters
+-1
+1 0
+2 0
+19 0
+3 1
+3 1
+5 2
+12 2
+9 3
+11 3
+17 5
+13 6
+10 8
+14 8
+16 8
+16 8
+16 8
+16 8
+14 8
+-1
+1 2 0 You fit the two pieces of the key together to create a full key
+10 11 15 You destructively pry the chest open with the short dagger, resulting in a splintery open chest
+7 17 18 You pour the elixer into the mouth of the corpse, quickly tranforming it from a lifeless husk to a beautifully flowing and warm angelic entity, which floats off the floor in front of you
+5 8 6 As you place the piece of gold into the bottom of the chalice, the power that resonated inside the piece flows throughout the entire cup. As the magic spreads through it, the magic appears to get more powerful until it feels nearly overpowering
+6 14 7 You pop open the cask and catch the few remaining ounces of wine in the humming cup. The moment the wine hits the bottom of the cup, however, the fluid in the cup turns a beautiful gold. The color then flows up the stream, reaching the last drops as it leaves the cask
+-1

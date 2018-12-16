@@ -1,0 +1,50 @@
+It's late on a friday, and you've just gotten back home after a long shift. You only have one thing on your mind right now - playing some video games in your garage.
+0 0 0 Fish Dispenser
+It's a metal box dripping with oily fish juice. Quite a nasty piece of equipment. It's got a button on the side, which makes the machine look like it could be used.
+1 3 You get a slimy fish
+1 1 1 Keyfish
+It's a keyfish. Known for their delicious taste and unique bone structure, keyfish have used by prisoners to escape thanks to the fishes key-like skeleton
+2 You squish the keyfish until its key-like skeleton pops out. You shudder at the mental image of that happening to a person.
+2 1 2 Keyfish skeleton
+It's a skeleton of a fish in the shape of a key. You remember that your home is equipped with keyfish locks, ready to be used to enter a locked room.
+2 1 3 You use the keyfish skeleton to open the door
+3 0 3 Computer
+It's your computer. You've been dying to get back on it to play some more games.
+You sit down at your computer, and you know you're where you want to be.
+4 0 0 Knife Block
+It's a high-end knife block. It's often seen in fancy professional kitchens, or in the homes of those who watch too much chopped.
+5 1 You pull the only knife out of the block. Suddenly, another knife takes its place. Odd.
+5 1 -1 Knife
+It's a small knife, especially skilled at removing skeletons from fish. How convenient.
+6 1 -1 Bone shards
+It's a pile of bone shards. This is what happens when you get too agressive with the knife.
+7 1 1 Unsolved Rubix Cube
+It's a scrambled rubix cube.
+8 You deftly solve the rubix cube in no time at all.
+8 1 1 Solved Rubix Cube
+It's an unscrambled rubix cube.
+7 You unsolve the rubix cube in what is sure to be a world record time.
+-1
+0 2 Kitchen
+A standard american kitchen. Laminate countertops, tile backsplash, and white cabinets. Kinda drab, but functional.
+1 Down the stairs to the basement
+2 Across to the living room
+1 1 Basement
+A grungy basement full of disgusting stuff like grandma's old bedspread, costumes that have never left the house, and an odd smelling box with some interesting-looking stains.
+0 Back upstairs to the kitchen
+2 2 Living Room
+A beautiful living room full of kids toys. It also has the standard maze of couches that don't seem to conform to euclidean geometry.
+0 Return to Kitchen
+-1 To Garage
+3 1 Garage
+Your holy workspace. Truly a remarkable place of peace and hard work.
+2 Return to the living room
+-1
+4 0
+0 1
+7 1
+3 3
+-1
+5 1 2 You deftly slide the knife through the fishes flesh, cleanly leaving only the bones behind.
+5 2 6 You smash the skeleton into a bunch of bone shards. Why?
+-1
